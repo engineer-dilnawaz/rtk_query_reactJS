@@ -1,0 +1,49 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "value": "Buy groceries",
+      "completed": false
+    },
+    {
+      "id": 2,
+      "value": "Walk the dog",
+      "completed": true
+    },
+    {
+      "id": 3,
+      "value": "Finish work project",
+      "completed": true
+    },
+    {
+      "id": 4,
+      "value": "Read a book",
+      "completed": true
+    },
+    {
+      "value": "Complete Redux ",
+      "completed": false,
+      "id": 5
+    },
+    {
+      "value": "Good morning",
+      "completed": false,
+      "id": 6
+    },
+    {
+      "value": "Hello",
+      "completed": false,
+      "id": 7
+    },
+    {
+      "value": "Hello",
+      "completed": false,
+      "id": 8
+    },
+    {
+      "value": "nn",
+      "completed": true,
+      "id": 9
+    }
+  ]
+}
